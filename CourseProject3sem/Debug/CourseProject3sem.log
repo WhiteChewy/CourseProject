@@ -1,0 +1,16 @@
+﻿Сборка начата 28.11.2014 2:46:51.
+     1>Проект "C:\Users\Никита\Desktop\учеба\Курсач\CourseProject3sem\CourseProject3sem\CourseProject3sem.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Kursovaya_Rabota.cpp
+         Kursovaya_Rabota.cpp
+     1>c:\users\никита\desktop\учеба\курсач\courseproject3sem\courseproject3sem\kursovaya_rabota.cpp(86): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+     1>c:\users\никита\desktop\учеба\курсач\courseproject3sem\courseproject3sem\kursovaya_rabota.cpp(594): warning C4101: fixchoice: неиспользованная локальная переменная
+     1>c:\users\никита\desktop\учеба\курсач\courseproject3sem\courseproject3sem\kursovaya_rabota.cpp(593): warning C4101: delnumb: неиспользованная локальная переменная
+       Link:
+         C:\Program Files\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Никита\Desktop\учеба\Курсач\CourseProject3sem\Debug\CourseProject3sem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Никита\Desktop\учеба\Курсач\CourseProject3sem\Debug\CourseProject3sem.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Никита\Desktop\учеба\Курсач\CourseProject3sem\Debug\CourseProject3sem.lib" /MACHINE:X86 Debug\Kursovaya_Rabota.obj
+         CourseProject3sem.vcxproj -> C:\Users\Никита\Desktop\учеба\Курсач\CourseProject3sem\Debug\CourseProject3sem.exe
+     1>Сборка проекта "C:\Users\Никита\Desktop\учеба\Курсач\CourseProject3sem\CourseProject3sem\CourseProject3sem.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:01.09
